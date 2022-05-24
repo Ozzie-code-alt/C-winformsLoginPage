@@ -1,0 +1,11 @@
+C:\Users\justi\Desktop\loginNet\loginNet\bin\Debug\loginNet.exe.config
+C:\Users\justi\Desktop\loginNet\loginNet\bin\Debug\loginNet.exe
+C:\Users\justi\Desktop\loginNet\loginNet\bin\Debug\loginNet.pdb
+C:\Users\justi\Desktop\loginNet\loginNet\obj\Debug\loginNet.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\loginNet\loginNet\obj\Debug\loginNet.csproj.SuggestedBindingRedirects.cache
+C:\Users\justi\Desktop\loginNet\loginNet\obj\Debug\loginNet.Login.resources
+C:\Users\justi\Desktop\loginNet\loginNet\obj\Debug\loginNet.Properties.Resources.resources
+C:\Users\justi\Desktop\loginNet\loginNet\obj\Debug\loginNet.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\loginNet\loginNet\obj\Debug\loginNet.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\loginNet\loginNet\obj\Debug\loginNet.exe
+C:\Users\justi\Desktop\loginNet\loginNet\obj\Debug\loginNet.pdb
